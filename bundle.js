@@ -38,4 +38,4 @@ module.exports="#define GLSLIFY 1\nuniform vec2 u_mouse;\nuniform vec2 u_res;\n\
 },{"three":"gBK8","./Figure":"ynWU"}],"H99C":[function(require,module,exports) {
 "use strict";require("./styles.css");var e=r(require("./Scene"));function r(e){return e&&e.__esModule?e:{default:e}}window.scene=new e.default;
 },{"./styles.css":"D9Nj","./Scene":"H6kS"}]},{},["H99C"], null)
-//# sourceMappingURL=/src.c64f2e82.js.map
+
